@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_extra"
+    app:startDestination="@id/fl5">
+
+
+    <fragment
+        android:id="@+id/fl2"
+        android:name="com.example.busapp.SecondFragment"
+        android:label="fragment_second"
+        tools:layout="@layout/fragment_second" >
+        <action
+            android:id="@+id/action_secondFragment_to_frag3"
+            app:destination="@id/fl3" />
+    </fragment>
+    <fragment
+        android:id="@+id/fl3"
+        android:name="com.example.busapp.frag3"
+        android:label="fragment_frag3"
+        tools:layout="@layout/fragment_frag3" >
+        <action
+            android:id="@+id/action_fl3_to_fl4"
+            app:destination="@id/fl4" />
+    </fragment>
+    <fragment
+        android:id="@+id/fl4"
+        android:name="com.example.busapp.frag4"
+        android:label="fragment_frag4"
+        tools:layout="@layout/fragment_frag4" />
+
+
+    <fragment
+        android:id="@+id/fl5"
+        android:name="com.example.busapp.fragt"
+        android:label="fragment_fragt"
+        tools:layout="@layout/fragment_temp">
+        <action
+            android:id="@+id/action_fl5_to_fl1"
+            app:destination="@id/fl1" />
+    </fragment>
+
+</navigation>
+
+    <!--Team 17 - Navigation linking to maindriver activity
+@Author: Royce Barker -->

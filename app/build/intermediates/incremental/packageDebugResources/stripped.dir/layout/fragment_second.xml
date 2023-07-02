@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/plan_trip2"
+    tools:context=".SecondFragment">
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+
+
+        android:id="@+id/bnv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#4939DC"
+        app:labelVisibilityMode="labeled"
+
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/m_1" /> <!--Imports from the menu class with all icons and, features
+            The rest are just customization visual wise -->
+
+
+
+    <ImageView
+        android:id="@+id/From"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="148dp"
+        android:src="@drawable/from"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/destin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/to"
+        app:layout_constraintStart_toStartOf="@+id/From"
+        app:layout_constraintTop_toBottomOf="@+id/From" />
+
+    <ImageView
+        android:id="@+id/date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/date"
+        app:layout_constraintStart_toStartOf="@+id/destin"
+        app:layout_constraintTop_toBottomOf="@+id/destin" />
+
+    <ImageView
+        android:id="@+id/numbppl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/number"
+        app:layout_constraintStart_toStartOf="@+id/date"
+        app:layout_constraintTop_toBottomOf="@+id/date" />
+
+    <TextView
+        android:id="@+id/textview_second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Plan Trip"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/travelby"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="108dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Travelling By?"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/editTextNumber"
+        android:layout_width="199dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:ems="10"
+        android:inputType="number"
+        android:text="InputNumber"
+        app:layout_constraintEnd_toEndOf="@+id/numbppl"
+        app:layout_constraintTop_toBottomOf="@+id/date" />
+
+    <Spinner
+        android:id="@+id/sp1"
+        android:layout_width="145dp"
+        android:layout_height="71dp"
+        android:layout_marginStart="116dp"
+
+        android:layout_marginLeft="116dp"
+        android:layout_marginTop="156dp"
+        android:backgroundTint="#260EFF"
+        android:entries="@array/destination1"
+
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Spinner
+        android:id="@+id/sp2"
+        android:layout_width="458dp"
+        android:layout_height="157dp"
+        android:layout_marginStart="156dp"
+
+        android:layout_marginLeft="156dp"
+        android:layout_marginTop="188dp"
+        android:backgroundTint="#260EFF"
+        android:entries="@array/destination2"
+        android:textColor="#FFFFFF"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/buttonSecond"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="70dp"
+        android:text="Find Availability"
+        android:onClick="letspay"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinnerde"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+    <EditText
+        android:id="@+id/editTextDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-60dp"
+        android:layout_marginEnd="68dp"
+        android:layout_marginRight="68dp"
+        android:ems="10"
+        android:inputType="date"
+        android:text="00/00/00"
+        app:layout_constraintEnd_toEndOf="@+id/date"
+        app:layout_constraintTop_toBottomOf="@+id/date" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!--Team 17 - Activity main code
+    @Author: Royce Barker -->

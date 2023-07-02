@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--Creates space in the menu, for each element -->
+    <item
+        android:id="@+id/fl5"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"
+        android:visible="true"></item>
+    <item
+        android:id="@+id/fl2"
+        android:icon="@drawable/ic_baseline_directions_bus_24"
+        android:title="Plan Trip"
+        android:visible="true"></item>
+    <item
+        android:id="@+id/fl3"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"
+        android:visible="true"></item>
+
+    <item
+        android:id="@+id/fl4"
+        android:icon="@drawable/ic_baseline_sticky_note_2_24"
+        android:title="TicketRef"
+        android:visible="true"></item>
+
+
+
+</menu>
+
+<!--  Team 17 Project: CastleLine  - Main activity_main class main functionality
+@Author - Royce Barker -->
+

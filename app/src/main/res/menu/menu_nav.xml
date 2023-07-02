@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Help/Documentation"
+        android:id="@+id/Help"
+    />
+
+    <item android:id="@+id/Placeholder"
+        android:title="Placeholder"
+        />
+</menu>
+    <!--Team 17 - Activity main code
+    @Author: Royce Barker -->

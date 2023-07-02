@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_barnard"
+    tools:context=".bamburgh">
+
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="414dp"
+        android:layout_height="279dp"
+        android:layout_marginTop="-50dp"
+        android:layout_marginBottom="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView6"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/bambi4" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="24dp"
+        android:layout_marginTop="-50dp"
+        android:layout_marginEnd="188dp"
+        android:layout_marginRight="188dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Bamburgh Castle"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="4dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="-50dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="About"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="-80dp"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Open Mon-Sun"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="-50dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginRight="28dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="10am-5pm"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="50dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="251dp"
+        android:layout_marginEnd="-100dp"
+        android:layout_marginRight="-100dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Nearby Bars"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toStartOf="@+id/imageView13"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="-70dp"
+        android:layout_marginLeft="-70dp"
+        android:layout_marginTop="272dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Wydenwell"
+        android:textColor="@color/white"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toStartOf="@+id/textView14"
+        app:layout_constraintStart_toEndOf="@+id/imageView13"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="273dp"
+        android:layout_marginEnd="352dp"
+        android:layout_marginRight="352dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="The Castle Inn"
+        android:textColor="@color/white"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.108"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="99dp"
+        android:layout_height="53dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="408dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="7 Front St, Bamburgh "
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="99dp"
+        android:layout_height="53dp"
+
+        android:layout_marginStart="160dp"
+        android:layout_marginLeft="160dp"
+        android:layout_marginTop="408dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="7bw, 25 Front St, Bamburgh "
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView18"
+        android:layout_width="99dp"
+        android:layout_height="53dp"
+
+        android:layout_marginStart="290dp"
+        android:layout_marginLeft="290dp"
+        android:layout_marginTop="408dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Bamburgh "
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginStart="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginRight="50dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Attractions"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="149dp"
+        android:layout_height="92dp"
+
+        android:layout_marginStart="30dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/atomic_age"
+        android:text="Bamburgh Beach"
+        android:textColor="@color/white"
+        android:textSize="11sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView11"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="401dp"
+        android:layout_height="152dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="104dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:text="Bamburgh Castle has stood guard above the spectacular Northumberland coastline for over 1,400 years. Spanning nine acres of land on its rocky plateau, Bamburgh Castle is one of the largest inhabited castles in the country.
+
+
+
+Visionary inventor, industrialist and philanthropist William George Armstrong bought Bamburgh Castle in 1894. He set about transforming it into his vision of the archetypal castle. The castle houses his unique collection of artwork, ceramics and objets d’art that Armstrong loved and brought him joy. "
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="130dp"
+        android:layout_height="388dp"
+        android:layout_marginTop="-165dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7"
+        app:srcCompat="@drawable/bambi1" />
+
+    <ImageView
+        android:id="@+id/imageView13"
+        android:layout_width="148dp"
+        android:layout_height="279dp"
+        android:layout_marginStart="-40dp"
+        android:layout_marginLeft="-40dp"
+        android:layout_marginTop="-110dp"
+        app:layout_constraintStart_toEndOf="@+id/imageView12"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7"
+        app:srcCompat="@drawable/bambi6" />
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="238dp"
+        android:layout_height="306dp"
+        android:layout_marginStart="-20dp"
+        android:layout_marginLeft="-20dp"
+        android:layout_marginTop="-125dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7"
+        app:srcCompat="@drawable/bambi2" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="165dp"
+        android:layout_height="495dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginLeft="1dp"
+        android:layout_marginTop="-218dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginRight="23dp"
+        app:layout_constraintEnd_toStartOf="@+id/textView7"
+        app:layout_constraintHorizontal_bias="0.522"
+        app:layout_constraintStart_toEndOf="@+id/imageView13"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7"
+        app:srcCompat="@drawable/bambi3" />
+
+    <ImageButton
+        android:id="@+id/bambiback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_baseline_arrow_back_24"
+        tools:layout_editor_absoluteX="-2dp"
+        tools:layout_editor_absoluteY="-1dp" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-20dp"
+        android:layout_marginEnd="60dp"
+        android:layout_marginRight="60dp"
+        android:text="NE69 7BW"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toStartOf="@+id/textView17"
+        app:layout_constraintTop_toBottomOf="@+id/textView15" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-20dp"
+        android:text="NE69 7BJ"
+        android:textColor="@color/white"
+        app:layout_constraintTop_toBottomOf="@+id/textView17"
+        tools:layout_editor_absoluteX="179dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="40dp"
+        android:layout_marginRight="40dp"
+        android:text="NE69 7DF"
+        android:textColor="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="670dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="394dp"
+        android:layout_height="109dp"
+        android:layout_marginStart="130dp"
+        android:layout_marginLeft="130dp"
+        android:src="@drawable/bambioverhaul"
+        app:layout_constraintEnd_toStartOf="@+id/textView14"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView16" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

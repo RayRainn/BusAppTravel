@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "139761322925",
+    "firebase_url": "https://castle-project-f4c7e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "castle-project-f4c7e",
+    "storage_bucket": "castle-project-f4c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139761322925:android:673986c15d4e4b9c5fef24",
+        "android_client_info": {
+          "package_name": "com.example.BusApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139761322925-05bo9rnl8u9c92cut1d7m9fmkfhges21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnb6DV3Ex3PQXvi0JKOTo72gps1a3Kj-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139761322925-05bo9rnl8u9c92cut1d7m9fmkfhges21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139761322925:android:193e5422402089f15fef24",
+        "android_client_info": {
+          "package_name": "com.example.buscastlesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139761322925-05bo9rnl8u9c92cut1d7m9fmkfhges21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnb6DV3Ex3PQXvi0JKOTo72gps1a3Kj-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139761322925-05bo9rnl8u9c92cut1d7m9fmkfhges21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

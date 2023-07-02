@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">139761322925-05bo9rnl8u9c92cut1d7m9fmkfhges21.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://castle-project-f4c7e-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">139761322925</string>
+    <string name="google_api_key" translatable="false">AIzaSyBnb6DV3Ex3PQXvi0JKOTo72gps1a3Kj-g</string>
+    <string name="google_app_id" translatable="false">1:139761322925:android:673986c15d4e4b9c5fef24</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBnb6DV3Ex3PQXvi0JKOTo72gps1a3Kj-g</string>
+    <string name="google_storage_bucket" translatable="false">castle-project-f4c7e.appspot.com</string>
+    <string name="project_id" translatable="false">castle-project-f4c7e</string>
+</resources>

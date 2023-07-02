@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--This is the border of where everything must fit inside -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RL"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_img"
+    tools:context=".MainDriver">
+    ><!--This links to our java file to do the actual functionality-->
+
+
+    <!--This is another border for the Bottom Nav bar, so it is confined in that specific space -->
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/CL"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_img">
+
+
+        <include
+            android:id="@+id/include3"
+            layout="@layout/nav_header"
+            tools:layout_editor_absoluteX="16dp"
+            tools:layout_editor_absoluteY="80dp" />
+
+
+        <com.google.android.material.bottomnavigation.BottomNavigationView
+
+
+            android:id="@+id/bnv"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#4939DC"
+            app:labelVisibilityMode="labeled"
+
+
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:menu="@menu/m_1" /> <!--Imports from the menu class with all icons and, features
+            The rest are just customization visual wise -->
+
+        <androidx.fragment.app.FragmentContainerView
+            android:id="@+id/fragment"
+            android:name="androidx.navigation.fragment.NavHostFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:defaultNavHost="true"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+
+            app:navGraph="@navigation/nav_extra"
+            tools:ignore="MissingConstraints" />
+
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <!--Nav Graph is our links, which gets imported
+            as well as the Nav host fragment above, these are the actual functional aspects for these visuals to do
+            what it intends to-->
+
+
+</RelativeLayout>
+
+<!--Team 17 - Activity main code - repurposed to the maindriver
+@Author: Royce Barker -->

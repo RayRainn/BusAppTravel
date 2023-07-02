@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:com.craftman.cardform="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="pay_frag">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="275dp"
+        android:layout_height="184dp"
+        android:layout_marginStart="108dp"
+        android:layout_marginLeft="108dp"
+        android:layout_marginTop="416dp"
+        android:src="@drawable/carddetails"
+        com.craftman.cardform:layout_constraintStart_toStartOf="parent"
+        com.craftman.cardform:layout_constraintTop_toTopOf="parent" />
+
+    <com.braintreepayments.cardform.view.CardForm
+        android:id="@+id/card_form"
+        android:layout_width="match_parent"
+        android:layout_height="2000dp"
+        com.craftman.cardform:layout_constraintStart_toStartOf="parent"
+        com.craftman.cardform:layout_constraintTop_toTopOf="parent">
+
+    </com.braintreepayments.cardform.view.CardForm>
+
+    <Button
+        android:id="@+id/btnBuy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="61dp"
+        android:background="@color/material_dynamic_neutral80"
+        android:text="Pay"
+        android:textColor="@android:color/black"
+        com.craftman.cardform:layout_constraintBottom_toBottomOf="parent"
+        com.craftman.cardform:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="74dp"
+        android:layout_height="38dp"
+        android:layout_marginStart="32dp"
+        android:layout_marginLeft="32dp"
+        android:layout_marginTop="500dp"
+        android:text="Starts with:"
+        android:textStyle="bold"
+        com.craftman.cardform:layout_constraintStart_toStartOf="parent"
+        com.craftman.cardform:layout_constraintTop_toTopOf="parent" />
+
+    <!--  Team 17 - Author Royce Barker Payment setup page !-->
+</androidx.constraintlayout.widget.ConstraintLayout>
