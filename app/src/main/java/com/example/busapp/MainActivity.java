@@ -1,46 +1,19 @@
 package com.example.busapp;
 
-import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 
 
 import com.example.busapp.databinding.ActivityMainBinding;
-import com.google.android.gms.tasks.OnCompleteListener;
-import com.google.android.gms.tasks.Task;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.navigation.NavigationView;
-import com.google.android.material.snackbar.Snackbar;
-import com.google.firebase.auth.AuthResult;
-import com.google.firebase.auth.FirebaseAuth;
 
 import androidx.annotation.NonNull;
-import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 
-import androidx.appcompat.widget.Toolbar;
-import androidx.coordinatorlayout.widget.CoordinatorLayout;
-import androidx.drawerlayout.widget.DrawerLayout;
 import androidx.fragment.app.Fragment;
-import androidx.fragment.app.FragmentManager;
-import androidx.fragment.app.FragmentTransaction;
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
-import androidx.navigation.ui.AppBarConfiguration;
-import androidx.navigation.ui.NavigationUI;
 
 
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
-import android.widget.Button;
-import android.widget.EditText;
-import android.widget.Spinner;
-import android.widget.Toast;
-
-import java.util.zip.Inflater;
 /*
 Broken Nav Drawer in activity main
 <com.google.android.material.navigation.NavigationView

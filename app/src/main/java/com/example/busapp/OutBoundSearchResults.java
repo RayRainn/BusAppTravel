@@ -10,7 +10,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Button;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.firebase.database.DataSnapshot;
@@ -58,9 +57,9 @@ public class OutBoundSearchResults extends AppCompatActivity implements MyAdapte
 
         ArrayList<String> nodes = new ArrayList<>();
         nodes.add("NewcastleAlnwickMon-Fri");
-        nodes.add("NewcastleAucklandMon-Fri");
-        nodes.add("NewcastleBerwickMon-Fri");
-        nodes.add("NewcastleDarlingtonMon-Fri");
+        nodes.add("AucklandNewcastleMon-Fri");
+        nodes.add("NewcastleBishopAucklandMon-Fri");
+        nodes.add("BishopAucklandBarnardMon-Fri");
 
 
         String passNode = new String();

@@ -1,39 +1,25 @@
 package com.example.busapp;
 
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.fragment.app.Fragment;
 
-import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
-import android.text.TextUtils;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.Spinner;
-import android.widget.TextView;
-import android.widget.TimePicker;
 import android.widget.Toast;
 
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.google.firebase.database.DataSnapshot;
-import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-import com.google.firebase.database.ValueEventListener;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Date;
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 public class MainActivitymk2 extends AppCompatActivity implements AdapterView.OnItemSelectedListener, View.OnClickListener {
     BottomNavigationView bottomNavigationView2;

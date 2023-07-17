@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
+            "outputFile": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lt\\values-lt.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Royce\\.gradle\\caches\\transforms-3\\ac2f421eadbb29fb3a9694b5b24bb1e7\\transformed\\core-1.7.0\\res\\values-lt\\values-lt.xml",

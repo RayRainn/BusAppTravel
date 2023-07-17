@@ -1,102 +1,102 @@
 [
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_paymentpg.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_paymentpg.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_paymentpg.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_paymentpg.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_alnwick.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_alnwick.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_first.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_register.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_out_bound_search_results.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_out_bound_search_results.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome_castles.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_welcome_castles.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_selected_item.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\my_selected_item.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_bamburgh.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_bamburgh.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome_castles.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_welcome_castles.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_dropdown_item.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\my_dropdown_item.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_frag4.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_frag4.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_frag3.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_frag3.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_dropdown_item.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\my_dropdown_item.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_temp.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_temp.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_return_search_results.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_return_search_results.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\my_selected_item.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\my_selected_item.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_barnard.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_barnard.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_frag4.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_frag4.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\nav_header.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_second.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_auckland.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_auckland.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_confirmation_booking.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_confirmation_booking.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_confirmation_booking.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_confirmation_booking.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\content_main.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_second.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_return_search_results.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_return_search_results.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_temp.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_temp.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\nav_header.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\nav_header.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bustimes.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\bustimes.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_first.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_thank_you.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_thank_you.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_castles.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_castles.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_castles.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_castles.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_thank_you.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_thank_you.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_bamburgh.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_bamburgh.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_barnard.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_barnard.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_welcome.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_welcome.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_register.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sign_in.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_frag3.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_frag3.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\bustimes.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\bustimes.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_alnwick.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\fragment_alnwick.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_out_bound_search_results.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\activity_out_bound_search_results.xml"
     },
     {
-        "merged": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\content_main.xml",
-        "source": "D:\\BusApp\\app\\src\\main\\res\\layout\\content_main.xml"
+        "merged": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_auckland.xml",
+        "source": "D:\\BusAppTravel\\app\\src\\main\\res\\layout\\fragment_auckland.xml"
     }
 ]

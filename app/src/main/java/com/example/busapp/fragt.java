@@ -1,17 +1,13 @@
 package com.example.busapp;
 
 import android.content.Intent;
-import android.media.Image;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
 
-import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-
-import com.example.busapp.databinding.FragmentFirstBinding;
 
 public class fragt extends Fragment {
     /*ImageButton bambi;

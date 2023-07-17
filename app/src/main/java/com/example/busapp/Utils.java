@@ -4,7 +4,6 @@ import android.app.Activity;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
-import android.graphics.Color;
 import android.net.Uri;
 import android.provider.CalendarContract;
 import android.util.Log;

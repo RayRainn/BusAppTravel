@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Royce\.gradle\caches\transforms-3\d0a45f76743b2202fb801aac1f317fcc\transformed\jetified-viewbinding-7.1.2\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\Royce\.gradle\caches\transforms-3\d1be3e1f7d52732d74876b7099ae85b4\transformed\jetified-firebase-database-19.2.1\AndroidManifest.xml:15:1-38:12
 MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Royce\.gradle\caches\transforms-3\9eb3dcaf580fa09aaa609bd8dec8fdee\transformed\jetified-firebase-auth-ktx-22.0.0\AndroidManifest.xml:2:1-17:12
@@ -81,25 +81,25 @@ MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Royce\.gradle\ca
 MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\Royce\.gradle\caches\transforms-3\43712b08ca4e6905f7afde566df33bb4\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Royce\.gradle\caches\transforms-3\df55a5e97222a74bd1c41f6c37be7cfa\transformed\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Royce\.gradle\caches\transforms-3\cfb21bd4361968b4a1b0e7fdeced0a3f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
 	package
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:2:1-75:12
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:1-77:12
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:5:5-73:19
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:5:5-75:19
 MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\Royce\.gradle\caches\transforms-3\d1be3e1f7d52732d74876b7099ae85b4\transformed\jetified-firebase-database-19.2.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\Royce\.gradle\caches\transforms-3\d1be3e1f7d52732d74876b7099ae85b4\transformed\jetified-firebase-database-19.2.1\AndroidManifest.xml:28:5-36:19
 MERGED from [com.google.firebase:firebase-auth-ktx:22.0.0] C:\Users\Royce\.gradle\caches\transforms-3\9eb3dcaf580fa09aaa609bd8dec8fdee\transformed\jetified-firebase-auth-ktx-22.0.0\AndroidManifest.xml:7:5-15:19
@@ -141,125 +141,125 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\Royce\.gradle\cach
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.7.0] C:\Users\Royce\.gradle\caches\transforms-3\ac2f421eadbb29fb3a9694b5b24bb1e7\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:11:9-65
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:11:9-65
 activity#com.example.busapp.WelcomeActivity
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:12:9-14:39
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:12:9-14:39
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:14:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:14:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:13:13-44
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:13:13-62
 activity#com.example.busapp.SignIn
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:15:9-17:39
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:15:9-17:39
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:17:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:16:13-35
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:16:13-53
 activity#com.example.busapp.activity_register
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:18:9-20:39
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:18:9-20:39
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:20:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:20:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:19:13-46
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:19:13-64
 activity#com.example.busapp.pay_frag
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:21:9-26:20
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:21:9-26:20
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:23:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:23:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:22:13-37
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:22:13-55
 activity#com.example.busapp.MainActivitymk2
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:29:9-32:20
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:29:9-32:20
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:30:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:30:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:29:19-50
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:29:19-68
 activity#com.example.busapp.OutBoundSearchResults
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:36:9-37:48
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:36:5-37:44
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:37:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:37:9-32
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:36:19-55
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:36:15-70
 activity#com.example.busapp.ReturnSearchResults
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:39:9-40:48
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:39:9-40:48
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:40:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:40:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:39:19-54
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:39:19-72
 activity#com.example.busapp.ConfirmationBooking
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:42:9-43:48
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:42:9-43:40
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:43:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:43:5-28
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:42:19-54
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:42:19-72
 activity#com.example.busapp.bamburgh
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:45:9-46:48
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:45:1-46:40
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:46:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:46:5-28
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:45:19-42
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:45:11-53
 activity#com.example.busapp.barnard
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:47:9-48:48
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:47:9-48:48
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:48:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:48:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:47:19-41
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:47:19-60
 activity#com.example.busapp.alnwick
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:50:9-51:48
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:50:9-51:48
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:51:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:51:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:50:19-41
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:50:19-60
 activity#com.example.busapp.auckland
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:53:9-54:48
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:53:9-54:48
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:54:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:54:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:53:19-42
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:53:19-61
 activity#com.example.busapp.MainDriver
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:55:9-57:20
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:55:9-57:20
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:56:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:56:13-36
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:55:19-45
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:55:19-63
 activity#com.example.busapp.MainActivity
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:58:9-68:20
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:58:9-68:20
 	android:label
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:61:13-45
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:61:13-45
 	android:exported
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:60:13-36
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:60:13-36
 	android:theme
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:62:13-60
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:62:13-60
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:59:13-41
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:59:13-59
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:63:13-67:29
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:63:13-67:29
 action#android.intent.action.MAIN
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:64:17-69
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:64:17-69
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:64:25-66
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:64:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:66:17-77
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:66:17-77
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:66:27-74
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:66:27-74
 meta-data#preloaded_fonts
-ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:70:9-72:57
+ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:72:9-74:57
 	android:resource
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:72:13-54
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:74:13-54
 	android:name
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml:71:13-43
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml:73:13-43
 uses-sdk
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Royce\.gradle\caches\transforms-3\d0a45f76743b2202fb801aac1f317fcc\transformed\jetified-viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.databinding:viewbinding:7.1.2] C:\Users\Royce\.gradle\caches\transforms-3\d0a45f76743b2202fb801aac1f317fcc\transformed\jetified-viewbinding-7.1.2\AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:firebase-database:19.2.1] C:\Users\Royce\.gradle\caches\transforms-3\d1be3e1f7d52732d74876b7099ae85b4\transformed\jetified-firebase-database-19.2.1\AndroidManifest.xml:19:5-21:41
@@ -414,18 +414,18 @@ MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\R
 MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Royce\.gradle\caches\transforms-3\df55a5e97222a74bd1c41f6c37be7cfa\transformed\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Royce\.gradle\caches\transforms-3\cfb21bd4361968b4a1b0e7fdeced0a3f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Royce\.gradle\caches\transforms-3\cfb21bd4361968b4a1b0e7fdeced0a3f\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
-INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
 		ADDED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\Royce\.gradle\caches\transforms-3\88232118ab477e827b11601f3c123a8b\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
-		ADDED from D:\BusApp\app\src\main\AndroidManifest.xml
-		INJECTED from D:\BusApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+		ADDED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
+		INJECTED from D:\BusAppTravel\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [com.google.firebase:firebase-database:19.2.1] C:\Users\Royce\.gradle\caches\transforms-3\d1be3e1f7d52732d74876b7099ae85b4\transformed\jetified-firebase-database-19.2.1\AndroidManifest.xml:25:5-79
 MERGED from [com.google.firebase:firebase-auth:22.0.0] C:\Users\Royce\.gradle\caches\transforms-3\88232118ab477e827b11601f3c123a8b\transformed\jetified-firebase-auth-22.0.0\AndroidManifest.xml:26:5-79

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Royce\\.gradle\\caches\\transforms-3\\7d19d41f90b77597adec611eef5ea9b8\\transformed\\appcompat-1.4.1\\res\\values-watch-v20\\values-watch-v20.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+            "outputFile": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-b+sr+Latn\\values-b+sr+Latn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Royce\\.gradle\\caches\\transforms-3\\9d361e4f11a2c241afa71fea962fe1e2\\transformed\\jetified-play-services-basement-18.1.0\\res\\values-b+sr+Latn\\values.xml",

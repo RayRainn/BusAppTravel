@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
+            "outputFile": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rAU\\values-en-rAU.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Royce\\.gradle\\caches\\transforms-3\\61009c2ff597f8d550e8402de3995108\\transformed\\navigation-ui-2.4.1\\res\\values-en-rAU\\values-en-rAU.xml",

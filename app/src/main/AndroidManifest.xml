@@ -10,63 +10,65 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity
-            android:name=".WelcomeActivity"
+            android:name="com.example.busapp.WelcomeActivity"
             android:exported="true" />
         <activity
-            android:name=".SignIn"
+            android:name="com.example.busapp.SignIn"
             android:exported="true" />
         <activity
-            android:name=".activity_register"
+            android:name="com.example.busapp.activity_register"
             android:exported="true" />
         <activity
-            android:name=".pay_frag"
+            android:name="com.example.busapp.pay_frag"
             android:exported="true">
 
 
         </activity>
 
 
-        <activity android:name=".MainActivitymk2"
+        <activity android:name="com.example.busapp.MainActivitymk2"
             android:exported="true">
 
         </activity>
 
 
 
-        <activity android:name="OutBoundSearchResults"
+    <activity android:name="com.example.busapp.OutBoundSearchResults"
+        android:exported="true"></activity>
+
+        <activity android:name="com.example.busapp.ReturnSearchResults"
             android:exported="true"></activity>
 
-        <activity android:name=".ReturnSearchResults"
+        <activity android:name="com.example.busapp.ConfirmationBooking"
+    android:exported="true"></activity>
+
+<activity android:name="com.example.busapp.bamburgh"
+    android:exported="true"></activity>
+        <activity android:name="com.example.busapp.barnard"
             android:exported="true"></activity>
 
-        <activity android:name=".ConfirmationBooking"
+        <activity android:name="com.example.busapp.alnwick"
             android:exported="true"></activity>
 
-        <activity android:name="bamburgh"
+        <activity android:name="com.example.busapp.auckland"
             android:exported="true"></activity>
-        <activity android:name="barnard"
-            android:exported="true"></activity>
-
-        <activity android:name="alnwick"
-            android:exported="true"></activity>
-
-        <activity android:name="auckland"
-            android:exported="true"></activity>
-        <activity android:name=".MainDriver"
+        <activity android:name="com.example.busapp.MainDriver"
             android:exported="true">
         </activity>
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.busapp.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
-            android:theme="@style/Theme.BusApp.NoActionBar">
+            android:theme="@style/Theme.APPNAv.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+        <activity android:name="com.example.busapp.barnard"
+            android:exported="true">
+        </activity>
         <meta-data
             android:name="preloaded_fonts"
             android:resource="@array/preloaded_fonts" />

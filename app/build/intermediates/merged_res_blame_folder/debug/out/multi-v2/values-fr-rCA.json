@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\BusApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "D:\\BusAppTravel\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Royce\\.gradle\\caches\\transforms-3\\d855eec91501b71a49446ca24bce89d2\\transformed\\jetified-card-form-3.1.1\\res\\values-fr-rCA\\values-fr-rCA.xml",

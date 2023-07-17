@@ -8,17 +8,13 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.content.Intent;
 import android.os.Bundle;
-import android.view.View;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
-
-import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 
@@ -53,7 +49,9 @@ public class ReturnSearchResults extends AppCompatActivity implements MyAdapter.
         recyclerView.setAdapter(myAdapter);
 
         String node1 = "AlnwickNewcastleMon-Fri";
-        String node2 = "AucklandNewcastleMon-Fri";
+        String node2 = "NewcastleAucklandMon-Fri";
+        String node3 = "BamburghBelfordFirestationMon-Fri";
+        String node4 = "BarnardBishopAucklandMon-Fri";
 
 
         String choice = new String();
@@ -63,8 +61,16 @@ public class ReturnSearchResults extends AppCompatActivity implements MyAdapter.
                 choice = node1;
                 break;
 
-            case "Bishop Auckland Market Place":
+            case "Newcastle Eldon Square":
                 choice = node2;
+                break;
+
+            case "Bishop Auckland Bus Station Stand C":
+                choice = node3;
+                break;
+
+            case "Barnard Castle Galgate Stand B":
+                choice = node4;
                 break;
 
         }
@@ -72,6 +78,8 @@ public class ReturnSearchResults extends AppCompatActivity implements MyAdapter.
         nodes = new ArrayList<>();
         nodes.add(node1);
         nodes.add(node2);
+        nodes.add(node3);
+        nodes.add(node4);
 
         String referenceString = choice;
 
@@ -83,6 +91,7 @@ public class ReturnSearchResults extends AppCompatActivity implements MyAdapter.
             public void onDataChange(@NonNull DataSnapshot snapshot) {
                 for(DataSnapshot dataSnapshot : snapshot.getChildren()) {
                     busTimes busTimes = dataSnapshot.getValue(busTimes.class);
+                    assert busTimes != null;
                     String[] returnTimes = busTimes.getDepartureTime().split(":");
                     int arrivalHour = Integer.parseInt(returnTimes[0]);
                     String[]outBoundArrivalTime = outBound.getArrivalTime().split(":");
